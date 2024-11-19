@@ -2,7 +2,7 @@
 
 ![](blockdiagram.png)
 
-This is the official repository of the paper [**"NMT-Obfuscator Attack: Ignore a sentence in translation with only one word"**](https://https://openreview.net/forum?id=P7K39Wh5As&noteId=P7K39Wh5As). NMT-Obfuscator is an adversarial attack against NMT models. It has the ability to force the target NMT model to ignore and not to translate a target sentence which is appended to the original sentence with an obfuscator word. 
+This is the official repository of the paper [**"NMT-Obfuscator Attack: Ignore a sentence in translation with only one word"**](https://openreview.net/pdf?id=P7K39Wh5As). NMT-Obfuscator is an adversarial attack against NMT models. It has the ability to force the target NMT model to ignore and not to translate a target sentence which is appended to the original sentence with an obfuscator word. 
 
 ## Installation
 
@@ -44,6 +44,6 @@ If you found this repository helpful, please don't forget to cite our paper:
 title={NMT-Obfuscator Attack: Ignore a sentence in translation with only one word},
 author={Sahar Sadrizadeh, César Descalzo, Ljiljana Dolamic and Pascal Frossard},
 booktitle={Neurips Safe Generative AI Workshop 2024}
-url={https://openreview.net/forum?id=P7K39Wh5As},
+url={https://openreview.net/pdf?id=P7K39Wh5As},
 }
 ```
