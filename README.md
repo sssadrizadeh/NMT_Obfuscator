@@ -2,12 +2,11 @@
 
 ![](blockdiagram.png)
 
-This is the official repository of the paper [**"NMT-Obfuscator Attack: Ignore a sentence in translation with only one word"**](https://https://openreview.net/forum?id=P7K39Wh5As&noteId=P7K39Wh5As). NMT-Obfuscator is an adversarial attack against NMT models. NMT-Obfuscator has the ability to force the target NMT model to ignore and not to translate a target sentence which is appended to the original sentence with an obfuscator word. 
+This is the official repository of the paper [**"NMT-Obfuscator Attack: Ignore a sentence in translation with only one word"**](https://https://openreview.net/forum?id=P7K39Wh5As&noteId=P7K39Wh5As). NMT-Obfuscator is an adversarial attack against NMT models. It has the ability to force the target NMT model to ignore and not to translate a target sentence which is appended to the original sentence with an obfuscator word. 
 
 ## Installation
 
-This project requires Python 3.8 and anaconda. To install the virtual environment with all the dependencies, 
-run the following command:
+To install the virtual environment with all the dependencies, run the following commands:
 
 Install [conda](https://conda.io) and run the steps below:
 ```
